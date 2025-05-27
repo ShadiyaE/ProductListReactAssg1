@@ -1,0 +1,19 @@
+{
+    "amazonQ.showCodeWithReferences": false,
+    "amazonQ.importRecommendationForInlineCodeSuggestions": false,
+    "amazonQ.telemetry": false,
+    "amazonQ.suppressPrompts": {
+        "createCredentialsProfile": false,
+        "codeWhispererNewWelcomeMessage": false,
+        "codeWhispererConnectionExpired": false,
+        "amazonQWelcomePage": false,
+        "amazonQSessionConfigurationMessage": false,
+        "minIdeVersion": false,
+        "ssoCacheError": false,
+        "amazonQLspManifestMessage": true,
+        "amazonQWorkspaceLspManifestMessage": false,
+        "amazonQChatDisclaimer": false,
+        "amazonQChatPairProgramming": false,
+        "amazonQSelectDeveloperProfile": false
+    }
+}
